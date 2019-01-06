@@ -1,4 +1,4 @@
-# Color-Block
+# Color-Block Current Version: 1.0.0
 
 Apple iTunes Store Page: https://itunes.apple.com/us/app/id1448628483
 
